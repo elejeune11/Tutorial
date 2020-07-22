@@ -11,7 +11,7 @@ https://jupyter.readthedocs.io/en/latest/install.html
 I like using Anaconda:
 https://docs.anaconda.com/anaconda/install/
 
-Note: all of the code should work just fine if you copy/paste into Python
+Note: all of the code should work just fine if you copy/paste into Python rather than using Jupyter
 
 Python packages used: 
 * numpy
